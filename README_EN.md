@@ -47,4 +47,4 @@ When developers rely heavily on AI coding assistants (Cursor, Claude Code, Copil
 
 ## 📄 License
 
-MIT License © 2026 Engineering Tutor Lab
+MIT License © 2026 Fe的Ai实验室

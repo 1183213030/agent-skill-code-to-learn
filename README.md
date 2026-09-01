@@ -107,4 +107,4 @@
 欢迎提交 Issue 和 Pull Request，分享你调教出的更优质的导师 Prompt 与行业实战模板！
 
 - **开源协议**：[MIT License](LICENSE)
-- **作者**：Engineering Tutor Lab
+- **作者**：Fe的Ai实验室
